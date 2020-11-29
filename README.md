@@ -1,2 +1,4 @@
-# urban-fasion-website
-Website for Urban Fasion
+# Urban Fasion Website Design
+
+A simple webiste design for a clothing store
+
